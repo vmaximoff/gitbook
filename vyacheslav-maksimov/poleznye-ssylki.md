@@ -12,3 +12,9 @@ Github-репозиторий этого проекта - [https://github.com/vm
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
+Блог на VC - [https://vc.ru/id4766606](https://vc.ru/id4766606)
+
+Блог на Sostav - [https://www.sostav.ru/blogs/284925](https://www.sostav.ru/blogs/284925)
+
+Блог на Tenchat - [https://tenchat.ru/giraffe](https://tenchat.ru/giraffe)
+
