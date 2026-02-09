@@ -2,7 +2,8 @@
 
 ## ВЯЧЕСЛАВ МАКСИМОВ
 
-* [Маркетинг-коуч и профи-офферист](README.md)
+* [Что я делаю](README.md)
+* [Маркетинг-коуч и профи-офферист](<README (1).md>)
 * [Как пользоваться материалами сайта](vyacheslav-maksimov/kak-polzovatsya-materialami-saita.md)
 * [Полезные ссылки](vyacheslav-maksimov/poleznye-ssylki.md)
 * [Контакты](vyacheslav-maksimov/kontakty.md)
