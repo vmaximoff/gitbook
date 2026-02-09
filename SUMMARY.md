@@ -5,6 +5,7 @@
 * [Маркетинг-коуч и профи-офферист](README.md)
 * [Как пользоваться материалами сайта](vyacheslav-maksimov/kak-polzovatsya-materialami-saita.md)
 * [Полезные ссылки](vyacheslav-maksimov/poleznye-ssylki.md)
+* [Контакты](vyacheslav-maksimov/kontakty.md)
 
 ## МАРКЕТИНГ ОТЕЛЕЙ
 
