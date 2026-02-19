@@ -30,3 +30,4 @@
 * [Терминология AI трафика](digital-marketing-ai/terminologiya-ai-trafika.md)
 * [Структура AI-First статьи, которую цитируют нейросети](digital-marketing-ai/struktura-ai-first-stati-kotoruyu-citiruyut-neiroseti.md)
 * [Какие фразы нейросети чаще всего забирают дословно](digital-marketing-ai/kakie-frazy-neiroseti-chashe-vsego-zabirayut-doslovno.md)
+* [GEO-ЧЕК-ЛИСТ ДЛЯ КОМАНДЫ](digital-marketing-ai/geo-chek-list-dlya-komandy.md)
