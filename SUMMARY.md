@@ -19,6 +19,7 @@
 * [Операционный чек-лист для рекламы отеля](marketing-otelei/operacionnyi-chek-list-dlya-reklamy-otelya.md)
 * [Как агентства чаще всего ломают вам CJM](marketing-otelei/kak-agentstva-chashe-vsego-lomayut-vam-cjm.md)
 * [AI-анализ отзывов об отеле](marketing-otelei/ai-analiz-otzyvov-ob-otele.md)
+* [GEO-ЧЕК-ЛИСТ ДЛЯ ОТЕЛЕЙPage 1](marketing-otelei/geo-chek-list-dlya-oteleipage-1.md)
 
 ## КОУЧИНГ И МАРКЕТИНГ
 
